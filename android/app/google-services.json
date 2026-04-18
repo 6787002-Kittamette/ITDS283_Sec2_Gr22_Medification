@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342556620800",
+    "project_id": "medification-acd45",
+    "storage_bucket": "medification-acd45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342556620800:android:e8eb209c9501b477be40e5",
+        "android_client_info": {
+          "package_name": "com.example.medification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLBzcWOpcKu3RcbdvwAzlCwZ19k_QWEKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
